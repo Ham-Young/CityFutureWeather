@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CityFutureWeather</string>
+    <!-- Strings in activity_main view -->
+    <string name="instructions">全国区县及以上城市未来天气 </string>
+    <string name="button_text">查询</string>
+    <string name="input_hint">请输入区县及以上城市名</string>
+
+    <!-- User messages for in-process queries and error results. -->
+    <string name="loading">信息获取中....</string>
+    <string name="no_results">"未查询到相关数据"</string>
+    <string name="no_search_term">请输入城市名</string>
+    <string name="no_network">请检查您的网络连接并重试</string>
+</resources>
